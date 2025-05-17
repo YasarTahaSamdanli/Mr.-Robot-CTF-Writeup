@@ -20,8 +20,7 @@ Mr.Robot CTF
 5.  -sV: Servis ve versiyon bilgilerini öğrenir. -p-: 1-65535 arasındaki tüm TCP tarar.
 6.  80 (HTTP) - Web sunucusu , 443 (HTTPS) -Güvenli Web, 22 (SSH) güvenlü Bağlantı.
 
-![resim](![image](https://github.com/user-attachments/assets/edc378fb-54d4-4ac9-8bd8-f3710232ff5a)
-)
+![resim](https://github.com/YasarTahaSamdanli/Mr.-Robot-CTF-Writeup/blob/main/2025-05-12%2018_32_15-kali-linux-2025.1a-virtualbox-amd64%20%5B%C3%87al%C4%B1%C5%9F%C4%B1yor%5D%20-%20Oracle%20VirtualBox.png?raw=true)
 
 **📌**** 1\. Bilgi Toplama**
 
